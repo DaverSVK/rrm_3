@@ -1,0 +1,2 @@
+rrm_cv3_szepvolgyi
+-DCATKIN_DEVEL_PREFIX=/home/david/szepvolgyi_2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/david/szepvolgyi_2_ws/install -G Unix Makefiles
